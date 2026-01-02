@@ -1,4 +1,4 @@
-<h1 align="center">Emre Tek</h1>
+<h1 align="center">Emre</h1>
 
 <p align="center">
   Modern web teknolojileriyle ölçeklenebilir, kullanıcı odaklı ve global standartlara uygun yazılım çözümleri geliştiren bir geliştirici.
